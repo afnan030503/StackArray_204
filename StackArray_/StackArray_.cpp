@@ -14,7 +14,7 @@ public:
 
 	}
 
-	void push() {
+	void push(){
 		cout << "\nEnter an Element";
 		int element;
 		cin >> element;
