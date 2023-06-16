@@ -74,7 +74,7 @@ int main(){
 		switch (ch){
 		case '1': {
 			s.push();
-			break;
+			break; 
 		}
 		case '2':
 			if (s.empty()) {
