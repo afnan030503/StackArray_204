@@ -9,7 +9,7 @@ private:
 	int top;
 
 public:
-	StackArray() { //construktor
+	StackArray(){ //construktor
 		top = -1;
 
 	}
