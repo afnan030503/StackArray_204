@@ -71,7 +71,7 @@ int main(){
 		cout << "4.Exit\n";
 		cin >> ch;
 
-		switch (ch) {
+		switch (ch){
 		case '1': {
 			s.push();
 			break;
